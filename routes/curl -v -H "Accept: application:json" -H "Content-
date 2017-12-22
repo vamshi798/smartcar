@@ -1,0 +1,1 @@
+curl -v -H "Accept: application/json" -H "Content-type: application/json" -X POST -d '{"action": "START"}'  http://localhost:3000/vehicles/1234/engine
